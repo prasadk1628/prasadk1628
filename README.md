@@ -34,6 +34,7 @@ Analyzed 16,000+ municipal complaints (2019–2022) to surface infrastructure ga
 **Domain:** Education / HR Analytics  
 Identified key factors driving campus placement outcomes. Cleaned and analyzed student profile data to surface patterns recruiters and placement officers can act on.  
 **Stack:** Python, Pandas, Matplotlib, Seaborn  
+→ [Live Demo](https://placement-intelligence-system.streamlit.app/)
 
 ---
 
@@ -45,8 +46,8 @@ Android productivity app built with Kotlin + Jetpack components. Demonstrates mo
 
 ## 📫 Contact
 
-- 📧 Email: *(add your email)*
-- 💼 LinkedIn: *(add your LinkedIn URL)*
+- 📧 Email: *(kavalivaraprasd16@gmail.com)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/vara-prasad-k-4a6026230/)*
 - 🐙 GitHub: [github.com/prasadk1628](https://github.com/prasadk1628)
 
 ---
