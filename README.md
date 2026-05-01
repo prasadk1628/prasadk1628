@@ -38,7 +38,7 @@ Identified key factors driving campus placement outcomes. Cleaned and analyzed s
 
 ---
 
-### 📱 [Study Buddy — Android App](https://github.com/prasadk1628/StudyBuddy) *(side project)*
+### 📱 [Study Buddy — Android App](https://github.com/prasadk1628/study-buddy-app) *(side project)*
 **Domain:** EdTech  
 Android productivity app built with Kotlin + Jetpack components. Demonstrates mobile UI skills as a complement to analytics work.
 
