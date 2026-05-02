@@ -1,8 +1,8 @@
 # Vara Prasad K — Data Analyst & Systems Builder
 
-I build data-driven systems that combine analytics, user behavior insights, and real-world decision-making.
+I build data-driven applications that analyze user behavior and convert activity into actionable insights.
 
-My work goes beyond static dashboards — I design applications that collect, process, and interpret data to drive actionable insights.
+Focused on combining analytics, system design, and real-world problem solving.
 
 ---
 
@@ -24,7 +24,9 @@ My work goes beyond static dashboards — I design applications that collect, pr
 ### 📊 [Study Behavior Analytics System](https://github.com/prasadk1628/study-buddy-app)
 **Domain:** EdTech / Behavioral Analytics  
 
-Built a data-driven study tracking system that analyzes user learning patterns and improves consistency through gamification.
+Built a full-stack-like front-end system that captures user study activity and transforms it into behavioral insights.
+
+The system analyzes patterns such as consistency, subject focus, and study trends, and reinforces user engagement through a rule-based achievement engine.
 
 **Key Features:**
 - Real-time analytics: study frequency, consistency score, subject distribution  
@@ -32,9 +34,13 @@ Built a data-driven study tracking system that analyzes user learning patterns a
 - Data visualization using charts (trend analysis, performance tracking)  
 - Gamification system to improve user engagement  
 
+Processes session-level data to compute metrics like consistency %, average session duration, and subject dominance.
+
 **Stack:** React, TypeScript, Recharts, localStorage  
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://studybehavioranalyticssystem.netlify.app/)
+
+**Impact:** Demonstrates how behavioral analytics and gamification can improve user consistency and engagement.
 
 
 
@@ -65,10 +71,9 @@ Identified key factors influencing placement outcomes through exploratory data a
 
 ## 🧠 What I Focus On
 
-- Turning raw data into meaningful insights  
-- Building systems that combine analytics with real-world usage  
-- Designing data-driven features (not just visualizations)  
-
+- Designing systems that transform raw activity data into behavioral insights  
+- Building analytics-driven features, not just visualizations  
+- Combining data analysis with real user interaction and feedback loops  
 ---
 
 ## 📫 Contact
