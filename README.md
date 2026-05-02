@@ -75,7 +75,6 @@ Identified key factors influencing student placement outcomes through EDA, featu
 ## 📈 GitHub Stats
 
 <p align="center">
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadk1628&theme=dark&hide_border=true" width="48%"/>
 </p>
 
