@@ -1,87 +1,99 @@
-# Vara Prasad K — Data Analyst & Systems Builder
+<h1 align="center">👋 Vara Prasad K</h1>
+<h3 align="center">Data Analyst & Systems Builder · Hyderabad, India</h3>
 
-I build data-driven applications that analyze user behavior and convert activity into actionable insights.
+<p align="center">
+  <a href="mailto:kavalivaraprasad16@gmail.com"><img src="https://img.shields.io/badge/Email-kavalivaraprasad16@gmail.com-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vara-prasad-k-4a6026230/"><img src="https://img.shields.io/badge/LinkedIn-vara--prasad--k-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/prasadk1628"><img src="https://img.shields.io/badge/GitHub-prasadk1628-181717?logo=github&logoColor=white"/></a>
+</p>
 
-Focused on combining analytics, system design, and real-world problem solving.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasadk1628&color=brightgreen&style=flat&label=Profile+Views"/>
+</p>
 
 ---
 
-## 🛠️ Tools & Skills
+I build **data-driven systems** that turn raw activity into behavioral insights — not just dashboards, but analytics pipelines with real decision value.
+
+Currently a 3rd-year B.Tech CSE student actively building toward a **Data Analyst role by 2027**, with hands-on experience in Python, EDA, Streamlit, and front-end analytics systems.
+
+---
+
+## 🛠️ Skills
 
 | Category | Tools |
 |---|---|
 | **Languages** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, TypeScript |
-| **Frontend** | React (for analytics dashboards & systems) |
 | **Dashboards** | Streamlit, Power BI *(in progress)* |
-| **Data Handling** | Data Cleaning, EDA, Feature Engineering |
-| **Version Control** | Git, GitHub |
-| **Other** | Jupyter Notebook, Excel |
+| **Frontend** | React, Recharts — for analytics UIs |
+| **Data Skills** | EDA, Data Cleaning, Feature Engineering, Behavioral Analytics |
+| **Dev Tools** | Git, GitHub, Jupyter Notebook, Excel |
 
 ---
 
 ## 📂 Featured Projects
 
 ### 📊 [Study Behavior Analytics System](https://github.com/prasadk1628/study-buddy-app)
-**Domain:** EdTech / Behavioral Analytics  
+**Domain:** EdTech / Behavioral Analytics
 
-Built a full-stack-like front-end system that captures user study activity and transforms it into behavioral insights.
+Captures user study sessions and computes behavioral metrics — consistency score, subject dominance, XP progression, and streak data. A rule-based achievement engine reinforces habits through gamification.
 
-The system analyzes patterns such as consistency, subject focus, and study trends, and reinforces user engagement through a rule-based achievement engine.
+- Consistency %, average session duration, subject distribution, most active day
+- Rule-based achievement engine (XP milestones, streaks, long-session detection)
+- Real-time charts: bar (subject vs time), line (progress over time)
 
-**Key Features:**
-- Real-time analytics: study frequency, consistency score, subject distribution  
-- Rule-based achievement engine (XP, streak, behavioral metrics)  
-- Data visualization using charts (trend analysis, performance tracking)  
-- Gamification system to improve user engagement  
-
-Processes session-level data to compute metrics like consistency %, average session duration, and subject dominance.
-
-**Stack:** React, TypeScript, Recharts, localStorage  
-
+`React` `TypeScript` `Recharts` `localStorage` `Tailwind CSS`
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://studybehavioranalyticssystem.netlify.app/)
-
-**Impact:** Demonstrates how behavioral analytics and gamification can improve user consistency and engagement.
-
-
 
 ---
 
 ### 🏙️ [City Complaint Intelligence System](https://github.com/prasadk1628/City-Complaint-Intelligence-System)
-**Domain:** Civic Analytics  
+**Domain:** Civic Analytics
 
-Analyzed 16,000+ municipal complaints (2019–2022) to identify infrastructure gaps and resolution inefficiencies.
+Analyzed 16,000+ municipal complaints (2019–2022) to surface resolution failures, high-risk wards, and seasonal complaint spikes. Built an interactive Streamlit dashboard for civic decision-making.
 
-**Stack:** Python, Pandas, Seaborn, Streamlit  
+- 61% resolution rate overall — identified worst-performing agencies and wards
+- Post-monsoon (Oct–Nov) flagged as highest-risk window for infrastructure complaints
+- Top 3 complaint types account for ~79% of all civic issues
 
+`Python` `Pandas` `Seaborn` `Streamlit` `Geospatial Heatmaps`
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://city-complaint-intelligence-system.streamlit.app/)
-
 
 ---
 
 ### 🎓 [Placement Intelligence System](https://github.com/prasadk1628/Placement-Intelligence-System)
-**Domain:** Education Analytics  
+**Domain:** Education Analytics
 
-Identified key factors influencing placement outcomes through exploratory data analysis and visualization.
+Identified key factors influencing student placement outcomes through EDA, feature analysis, and an ML prediction model. Outputs actionable recommendations for students based on their profile.
 
-**Stack:** Python, Pandas, Matplotlib, Seaborn  
-
+`Python` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn`
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://placement-intelligence-system.streamlit.app/)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prasadk1628&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadk1628&theme=dark&hide_border=true" width="48%"/>
+</p>
 
 ---
 
 ## 🧠 What I Focus On
 
-- Designing systems that transform raw activity data into behavioral insights  
-- Building analytics-driven features, not just visualizations  
-- Combining data analysis with real user interaction and feedback loops  
----
-
-## 📫 Contact
-
-- 📧 Email: kavalivaraprasd16@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/vara-prasad-k-4a6026230/  
-- 🐙 GitHub: https://github.com/prasadk1628  
+- Designing analytics pipelines that surface **decision-ready insights**, not just visuals
+- Building systems where **data and user behavior interact** — behavioral loops, not static reports
+- Combining Python data work with front-end delivery for end-to-end analytics products
 
 ---
 
-*Actively preparing for Data Analyst roles (2026–2027) with a focus on real-world, system-level projects.*
+## 🚀 Currently
+
+- 📊 Deepening SQL (window functions, CTEs) and Power BI
+- 🏗️ Building a domain-specific analytics project with SQL as the core
+- 🎯 Targeting Data Analyst roles — open to internships and entry-level positions (2026–2027)
+
+---
+
+*"Data is only as useful as the decisions it enables."*
