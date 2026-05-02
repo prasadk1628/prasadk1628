@@ -1,9 +1,8 @@
-# Vara Prasad K — Data Analyst
+# Vara Prasad K — Data Analyst & Systems Builder
 
-**I turn raw, messy data into decisions that stick.**  
-Specializing in exploratory analysis, dashboards, and storytelling that bridges technical findings with business action.
+I build data-driven systems that combine analytics, user behavior insights, and real-world decision-making.
 
-Currently building a portfolio focused on civic data, placement analytics, and real-world Python/SQL pipelines.
+My work goes beyond static dashboards — I design applications that collect, process, and interpret data to drive actionable insights.
 
 ---
 
@@ -11,7 +10,8 @@ Currently building a portfolio focused on civic data, placement analytics, and r
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL |
+| **Languages** | Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, TypeScript |
+| **Frontend** | React (for analytics dashboards & systems) |
 | **Dashboards** | Streamlit, Power BI *(in progress)* |
 | **Data Handling** | Data Cleaning, EDA, Feature Engineering |
 | **Version Control** | Git, GitHub |
@@ -21,35 +21,62 @@ Currently building a portfolio focused on civic data, placement analytics, and r
 
 ## 📂 Featured Projects
 
+### 📊 [Study Behavior Analytics System](https://github.com/prasadk1628/study-buddy-app)
+**Domain:** EdTech / Behavioral Analytics  
+
+Built a data-driven study tracking system that analyzes user learning patterns and improves consistency through gamification.
+
+**Key Features:**
+- Real-time analytics: study frequency, consistency score, subject distribution  
+- Rule-based achievement engine (XP, streak, behavioral metrics)  
+- Data visualization using charts (trend analysis, performance tracking)  
+- Gamification system to improve user engagement  
+
+**Stack:** React, TypeScript, Recharts, localStorage  
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://studybehavioranalyticssystem.netlify.app/)
+
+
+
+---
+
 ### 🏙️ [City Complaint Intelligence System](https://github.com/prasadk1628/City-Complaint-Intelligence-System)
-**Domain:** Civic / Urban Analytics  
-Analyzed 16,000+ municipal complaints (2019–2022) to surface infrastructure gaps, resolution bottlenecks, and high-risk wards.  
+**Domain:** Civic Analytics  
+
+Analyzed 16,000+ municipal complaints (2019–2022) to identify infrastructure gaps and resolution inefficiencies.
+
 **Stack:** Python, Pandas, Seaborn, Streamlit  
-**Output:** Live interactive dashboard with ward-level filtering and agency performance KPIs  
-→ [Live Demo](https://city-complaint-intelligence-system.streamlit.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://city-complaint-intelligence-system.streamlit.app/)
+
 
 ---
 
 ### 🎓 [Placement Intelligence System](https://github.com/prasadk1628/Placement-Intelligence-System)
-**Domain:** Education / HR Analytics  
-Identified key factors driving campus placement outcomes. Cleaned and analyzed student profile data to surface patterns recruiters and placement officers can act on.  
+**Domain:** Education Analytics  
+
+Identified key factors influencing placement outcomes through exploratory data analysis and visualization.
+
 **Stack:** Python, Pandas, Matplotlib, Seaborn  
-→ [Live Demo](https://placement-intelligence-system.streamlit.app/)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://placement-intelligence-system.streamlit.app/)
 
 ---
 
-### 📱 [Study Buddy — Android App](https://github.com/prasadk1628/study-buddy-app) *(side project)*
-**Domain:** EdTech  
-Android productivity app built with Kotlin + Jetpack components. Demonstrates mobile UI skills as a complement to analytics work.
+## 🧠 What I Focus On
+
+- Turning raw data into meaningful insights  
+- Building systems that combine analytics with real-world usage  
+- Designing data-driven features (not just visualizations)  
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: *(kavalivaraprasd16@gmail.com)*
-- 💼 LinkedIn: *(https://www.linkedin.com/in/vara-prasad-k-4a6026230/)*
-- 🐙 GitHub: [github.com/prasadk1628](https://github.com/prasadk1628)
+- 📧 Email: kavalivaraprasd16@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/vara-prasad-k-4a6026230/  
+- 🐙 GitHub: https://github.com/prasadk1628  
 
 ---
 
-*Open to Data Analyst internships and entry-level roles in Hyderabad. Available from early 2027.*
+*Actively preparing for Data Analyst roles (2026–2027) with a focus on real-world, system-level projects.*
