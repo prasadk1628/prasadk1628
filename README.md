@@ -17,6 +17,7 @@ I build **data-driven systems** that turn raw activity into behavioral insights 
 
 Currently a 3rd-year B.Tech CSE student actively building toward a **Data Analyst role by 2027**, with hands-on experience in Python, EDA, Streamlit, and front-end analytics systems.
 
+
 ---
 
 ## 🛠️ Skills
@@ -74,7 +75,7 @@ Identified key factors influencing student placement outcomes through EDA, featu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasadk1628&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasadk1628&theme=dark&hide_border=true" width="48%"/>
 </p>
 
