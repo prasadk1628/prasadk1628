@@ -34,7 +34,7 @@ Currently a 3rd-year B.Tech CSE student actively building toward a **Data Analys
 
 ## 📂 Featured Projects
 
-### 📊 [Study Behavior Analytics System](https://github.com/prasadk1628/study-buddy-app)
+### 📊 [StudyLens](https://github.com/prasadk1628/study-buddy-app)
 **Domain:** EdTech / Behavioral Analytics
 
 Captures user study sessions and computes behavioral metrics — consistency score, subject dominance, XP progression, and streak data. A rule-based achievement engine reinforces habits through gamification.
@@ -48,7 +48,7 @@ Captures user study sessions and computes behavioral metrics — consistency sco
 
 ---
 
-### 🏙️ [City Complaint Intelligence System](https://github.com/prasadk1628/City-Complaint-Intelligence-System)
+### 🏙️ [CivicLens](https://github.com/prasadk1628/City-Complaint-Intelligence-System)
 **Domain:** Civic Analytics
 
 Analyzed 16,000+ municipal complaints (2019–2022) to surface resolution failures, high-risk wards, and seasonal complaint spikes. Built an interactive Streamlit dashboard for civic decision-making.
