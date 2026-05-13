@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:kavalivaraprasad16@gmail.com"><img src="https://img.shields.io/badge/Email-kavalivaraprasad16@gmail.com-D14836?logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/vara-prasad-k-4a6026230/"><img src="https://img.shields.io/badge/LinkedIn-vara--prasad--k-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vara-prasad-kavali/"><img src="https://img.shields.io/badge/LinkedIn-vara--prasad--k-0077B5?logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/prasadk1628"><img src="https://img.shields.io/badge/GitHub-prasadk1628-181717?logo=github&logoColor=white"/></a>
 </p>
 
