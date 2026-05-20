@@ -71,13 +71,13 @@ Identified key factors influencing student placement outcomes through EDA, featu
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-brightgreen)](https://placement-intelligence-system.streamlit.app/)
 
 ---
-
 ## 📈 GitHub Stats
 <p align="center">
   <a href="https://github.com/prasadk1628">
     <img src="https://streak-stats.demolab.com?user=prasadk1628&theme=dark&hide_border=true" width="48%" />
   </a>
 </p>   
+
 ---
 
 ## 🧠 What I Focus On
