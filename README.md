@@ -6,6 +6,9 @@
   <a href="mailto:kavalivaraprasad16@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://prasadk1628.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00AEEF?logo=firefox&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/vara-prasad-kavali/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white"/>
   </a>
